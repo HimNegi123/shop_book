@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.178" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/drawable/add.xml" value="0.178" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/drawable/custom_button.xml" value="0.1765" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/drawable/custom_button_summit.xml" value="0.1585" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/drawable/dilog_button.xml" value="0.1765" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/drawable/ic_launcher_background.xml" value="0.178" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/layout/activity_homeactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/layout/custom_button.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/layout/delete.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/layout/dilogbox.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/layout/ic_baseline_search_24.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/shop_book/app/src/main/res/layout/item_view.xml" value="0.2633624878522838" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
